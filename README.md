@@ -1,0 +1,1 @@
+This is a static website that contains recipes for various dishes. This website will teach and develop an understanding about the basics of HTML. Once I have completed this project, I should be able to create a crude web page with HTML. 
